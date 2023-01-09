@@ -1,1 +1,48 @@
+body {
+ background-image: url("https://media.istockphoto.com/id/1094922834/vector/binary-background.jpg?s=612x612&w=0&k=20&c=OEGamSEXekm5Q0dRGa1U4DtzgIS_Zq1cCjhjM3D0EWI=");
+ background-color: #cccccc;
+  
+  
+  
+ 
+  
+  
+  
+  
+}
+h2{
+  color: white;
+  Font-size: 420%;
+  text-decoration: underline;
+  
+}
 
+p{
+  color: white;
+  Font-size:250%;
+  
+  
+}
+
+ul{
+  list-style-type: none;
+  text-align:center;
+  Font-size: 25px;
+  
+}
+li{
+  float:left;
+  color: white;
+   text-align:center;
+}
+li a{
+  padding:90PX;
+  color: white;
+  font-family:"Comic Sans";
+   text-align:center;
+  
+  
+}
+Li a:hover{
+  backgroundcolor:grey;
+}
